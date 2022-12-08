@@ -6,4 +6,4 @@
 - 👀 I’m interested in learning new things and concrete my old skilss
 - 🌱 I’m currently learning JS, PHP and Algos
 - 💞️ I’m looking to collaborate on JS, PHP or any sort of projects.
-- 📫 How to reach me ...
+- 📫 How to reach me nauman.javed@invozone.com
